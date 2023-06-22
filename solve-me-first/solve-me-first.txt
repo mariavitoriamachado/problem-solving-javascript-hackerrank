@@ -1,0 +1,31 @@
+Complete a função solveMeFirst para calcular a soma de dois inteiros.
+
+Exemplo
+a = 7
+b = 3
+
+return 10.
+
+Descrição da função
+
+Complete a função solveMeFirst no editor abaixo.
+
+solveMeFirst tem os seguintes parâmetros:
+
+int a : o primeiro valor
+int b : o segundo valor
+Retorna
+- int : a soma dee
+
+Restrições
+
+
+Entrada de amostra
+a = 2
+b = 3
+
+Saída de amostra
+5
+
+Explicação
+2 + 3 = 5
